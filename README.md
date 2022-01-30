@@ -9,7 +9,9 @@ It's a Python script to make a QR-Code for any Wi-Fi network. It can facilitate 
 
 ## What do I use?
 - [qrcode library](https://pypi.org/project/qrcode/).
+- [pyimgur library]("https://pypi.org/project/pyimgur/0.3.1/").
+- [pyperclip library]("https://pypi.org/project/pyperclip/").
 
 ## What to-do next?
-- Add the possibility to upload the QR-Code to imgur.
 - Add guest networks.
+- Add requirements.txt.

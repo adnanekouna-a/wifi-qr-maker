@@ -2,5 +2,7 @@
 bin/
 lib/
 share/
+QR/*.png
 *.cfg
 *.png
+*.env
